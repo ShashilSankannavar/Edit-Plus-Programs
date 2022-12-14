@@ -1,0 +1,18 @@
+class Sector2
+{
+ static void area()
+ {
+   double t=30.5;
+   double r=2.5;
+   double result=0.5*r*r;
+   System.out.println(result);
+ }
+ public static void main(String[] args)
+	{
+      area();
+ 
+    }
+
+
+
+}

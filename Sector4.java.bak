@@ -1,0 +1,16 @@
+class Sector4
+{
+ static double area(double pi, double r)
+	{
+      double result=pi*r*r;
+	  System.out.println(result);
+      return result;
+    }
+ public static void main(String[] args)
+	{
+ 
+     area(3.142,2.5);
+	 double x=result;
+	 System.out.println(x);
+    }
+}

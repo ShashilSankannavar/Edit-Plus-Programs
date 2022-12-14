@@ -1,0 +1,20 @@
+class Triangle
+{
+ static double area()
+ {
+  double b=2.5;
+  double h=4;
+  double result=0.5*b*h;
+  return result;
+ 
+ }
+ public static void main(String[] args)
+ { 
+  double x=area();
+  System.out.println(x);
+ 
+ }
+
+
+
+}
